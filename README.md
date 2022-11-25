@@ -30,7 +30,7 @@ Step 6: Declare the permission in the Android Manifest file
 Step 7: Save and run the application.
 
 
-## </br></br></br></br></br></br></br>PROGRAM:
+## </br>PROGRAM:
 ```
 /*
 Program to Create a simple application for Run-Time Permission”.
@@ -219,7 +219,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 ```
-## </br></br></br></br></br></br></br></br></br></br></br></br>OUTPUT
+## </br>OUTPUT
 </br></br>
 ![Screenshot 2022-11-23 220554](https://user-images.githubusercontent.com/75235789/203602095-b6a83726-8b50-4f9e-b812-e248c4a03d66.jpg)
 
